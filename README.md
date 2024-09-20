@@ -21,9 +21,9 @@
 ##### Neste projeto foi utilizado somente HTML5 e CSS3 na criação da página, visando boas práticas de organização e desenvolvimento do código.
 
 #### Aprendizados desenvolvidos neste projeto foram:
-# Estrutura do HTML;
-# Favicon;
-# Importar Textos e Imagens (Internas e Externas);
-# Alinhamento de Elementos;
-# Responsividade;
-# Utilização de váriaveis no CSS.
+* Estrutura do HTML;
+* Favicon;
+* Importar Textos e Imagens (Internas e Externas);
+* Alinhamento de Elementos;
+* Responsividade;
+* Utilização de váriaveis no CSS.

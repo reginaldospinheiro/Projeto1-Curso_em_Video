@@ -19,3 +19,11 @@
 ##### Primeira Página feita com a orientação do **Prof. Guanabara** no curso HTML5 e CSS3 Modulo 2 no site [Curso em Video](https://www.cursoemvideo.com)
 
 ##### Neste projeto foi utilizado somente HTML5 e CSS3 na criação da página, visando boas práticas de organização e desenvolvimento do código.
+
+#### Aprendizados desenvolvidos neste projeto foram:
+# Estrutura do HTML;
+# Favicon;
+# Importar Textos e Imagens (Internas e Externas);
+# Alinhamento de Elementos;
+# Responsividade;
+# Utilização de váriaveis no CSS.

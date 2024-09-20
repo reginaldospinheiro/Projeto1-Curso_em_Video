@@ -1,5 +1,7 @@
 # Projeto1-Curso_em_Video
 
+https://reginaldospinheiro.github.io/Projeto1-Curso_em_Video/
+
 ## Objetivo
 ##### Aplicar o básico sobre utilização de marcação e estilo.
 ##### O Básico de controle de versão e hospedagem no GitHub.
